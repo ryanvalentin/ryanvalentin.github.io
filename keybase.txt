@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/ryanvalentin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ryanvalentin.com
+  * I am ryanvalentin (https://keybase.io/ryanvalentin) on keybase.
+  * I have a public key ASBzvVW4GAE7iT1MMby1AmIyY7WSRb0NV4CrDcIfhWam6go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012073bd55b818013b893d4c31bcb502623263b59245bd0d5780ab0dc21f8566a6ea0a",
+      "host": "keybase.io",
+      "kid": "012073bd55b818013b893d4c31bcb502623263b59245bd0d5780ab0dc21f8566a6ea0a",
+      "uid": "8cf92e4b7a23e35d40d91193e9b02519",
+      "username": "ryanvalentin"
+    },
+    "merkle_root": {
+      "ctime": 1517519436,
+      "hash": "085d3ec065106183bf46b384644a19d294ce794ea9d4b0e69fd5dc1958ed63cab59c40fdc76ecb70bd6b05530df5e99204c8c182e87f64ef2e693463d1d79cf6",
+      "hash_meta": "5b8ebce5193c464b8986d9d27e2482ed66b945c5b9408f695a77756a7d7f44ce",
+      "seqno": 2017940
+    },
+    "service": {
+      "hostname": "ryanvalentin.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.39"
+  },
+  "ctime": 1517519446,
+  "expire_in": 504576000,
+  "prev": "ad0a6aa4c7b3f4ae1a4115a494d3d6514870a831d9961525b6ceb4353ec65ecc",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgc71VuBgBO4k9TDG8tQJiMmO1kkW9DVeAqw3CH4VmpuoKp3BheWxvYWTFA0x7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzNiZDU1YjgxODAxM2I4OTNkNGMzMWJjYjUwMjYyMzI2M2I1OTI0NWJkMGQ1NzgwYWIwZGMyMWY4NTY2YTZlYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzNiZDU1YjgxODAxM2I4OTNkNGMzMWJjYjUwMjYyMzI2M2I1OTI0NWJkMGQ1NzgwYWIwZGMyMWY4NTY2YTZlYTBhIiwidWlkIjoiOGNmOTJlNGI3YTIzZTM1ZDQwZDkxMTkzZTliMDI1MTkiLCJ1c2VybmFtZSI6InJ5YW52YWxlbnRpbiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNzUxOTQzNiwiaGFzaCI6IjA4NWQzZWMwNjUxMDYxODNiZjQ2YjM4NDY0NGExOWQyOTRjZTc5NGVhOWQ0YjBlNjlmZDVkYzE5NThlZDYzY2FiNTljNDBmZGM3NmVjYjcwYmQ2YjA1NTMwZGY1ZTk5MjA0YzhjMTgyZTg3ZjY0ZWYyZTY5MzQ2M2QxZDc5Y2Y2IiwiaGFzaF9tZXRhIjoiNWI4ZWJjZTUxOTNjNDY0Yjg5ODZkOWQyN2UyNDgyZWQ2NmI5NDVjNWI5NDA4ZjY5NWE3Nzc1NmE3ZDdmNDRjZSIsInNlcW5vIjoyMDE3OTQwfSwic2VydmljZSI6eyJob3N0bmFtZSI6InJ5YW52YWxlbnRpbi5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM5In0sImN0aW1lIjoxNTE3NTE5NDQ2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImFkMGE2YWE0YzdiM2Y0YWUxYTQxMTVhNDk0ZDNkNjUxNDg3MGE4MzFkOTk2MTUyNWI2Y2ViNDM1M2VjNjVlY2MiLCJzZXFubyI6MTMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAyDCBHwDpZXuK7XTRufqC3owSi9whhkgyJVijBmQ7AA9ZVw+JfyzU/YeyB3EDBgW03sMx8+YEwqV/z/ziSsPyDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGyU4pcmxW3/Fsva+fMLJCoSUem+7yjPv/cGfmNBGMVmo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ryanvalentin
+
+==================================================================
