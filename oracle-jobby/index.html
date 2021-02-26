@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Oracle Jobby</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/public.json", {onProgress: UnityProgress});
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-174904944-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-174904944-1');
+
+      window.ojOnReady = () => console.log('Oracle Jobby Ready');
+      window.ojOnIntroComplete = () => console.log('Oracle Jobby Intro Complete');
+      window.ojOnDestroyComplete = () => console.log('Oracle Jobby Destroy Complete');
+    </script>
+  </head>
+  <body>
+    <div class="webgl-content">
+      <div id="unityContainer" style="width: 1280px; height: 1080px"></div>
+      <div class="debug">
+        <ul class="debug-functions">
+          <button onclick="unityInstance.SendMessage('SceneRoot', 'OJ_Start')">Start</button>
+          <button onclick="unityInstance.SendMessage('SceneRoot', 'OJ_SetLoading', 1)">Set Loading</button>
+          <button onclick="unityInstance.SendMessage('SceneRoot', 'OJ_SetLoading', 0)">Stop Loading</button>
+          <button onclick="unityInstance.SendMessage('SceneRoot', 'OJ_Damage')">Damage</button>
+          <button onclick="unityInstance.SendMessage('SceneRoot', 'OJ_WarnLastQuestion')">Damage with Warning</button>
+          <button onclick="unityInstance.SendMessage('SceneRoot', 'OJ_Destroy')">Destroy</button>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
