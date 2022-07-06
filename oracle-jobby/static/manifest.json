@@ -1,0 +1,27 @@
+{
+  "IndexPage.client.css": "7354211c976626f5e623/css/IndexPage.client.css",
+  "IndexPage.client.js": "2373d4c96fed51e912f7/js/IndexPage.client.js",
+  "IndexPage.client.js.map": "2373d4c96fed51e912f7/js/IndexPage.client.js.map",
+  "entrypoints": {
+    "IndexPage.client": {
+      "js": [
+        "b181e4f26a6cfca17794/js/manifest.js",
+        "dabfd4241ac07ff00b54/js/vendor.js",
+        "2373d4c96fed51e912f7/js/IndexPage.client.js"
+      ],
+      "js.map": [
+        "b181e4f26a6cfca17794/js/manifest.js.map",
+        "dabfd4241ac07ff00b54/js/vendor.js.map",
+        "2373d4c96fed51e912f7/js/IndexPage.client.js.map"
+      ],
+      "css": [
+        "7354211c976626f5e623/css/IndexPage.client.css"
+      ]
+    }
+  },
+  "images/sharebg.png": "images/sharebg-023857.png",
+  "manifest.js": "b181e4f26a6cfca17794/js/manifest.js",
+  "manifest.js.map": "b181e4f26a6cfca17794/js/manifest.js.map",
+  "vendor.js": "dabfd4241ac07ff00b54/js/vendor.js",
+  "vendor.js.map": "dabfd4241ac07ff00b54/js/vendor.js.map"
+}
