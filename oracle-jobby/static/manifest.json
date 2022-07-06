@@ -19,7 +19,7 @@
       ]
     }
   },
-  "images/sharebg.png": "images/sharebg-023857.png",
+  "images/sharebg.png": "/oracle-jobby/static/images/sharebg-023857.png",
   "manifest.js": "b181e4f26a6cfca17794/js/manifest.js",
   "manifest.js.map": "b181e4f26a6cfca17794/js/manifest.js.map",
   "vendor.js": "dabfd4241ac07ff00b54/js/vendor.js",
